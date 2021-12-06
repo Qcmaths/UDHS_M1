@@ -1,0 +1,48 @@
+note : (*) means 'additionnal variable'
+
+NOMINALES :
+HHID              (id) Case Identification    
+HV024                  Region
+HV025                  Type of place of residence
+HV026                  NA - Place of residence #dropped
+HV201                  Source of drinking water
+(HV202)                #dropped Source of non-drinking water 
+HV201A                 Water not available for at least a day last two
+HV205                  Type of toilet facility 
+HV206                  Has electricity
+HV207                  Has radio
+HV208                  Has television
+HV209                  Has refrigerator
+HV210                  Has bicycle
+HV211                  Has motorcycle/scooter 
+HV212                  Has car/truck
+HV213                  Main floor material
+HV214                  Main wall material
+HV215                  Main roof material
+HV217                  Relationship structure
+HV218                  Line number of head of household
+HV219                  Sex of head of household
+HV221                  Has telephone (land-line)
+HV225                  Share toilet with other households
+HV226                  Type of cooking fuel
+HV227                  Has mosquito bed net for sleeping
+(*) HV230B             Presence of water at hand washing place
+HV228                  Children under 5 slept under mosquito bed net
+
+
+QUANTITATIVES :
+HV005                  Household sample weight (6 decimals)
+HV009                  Number of household members
+HV220                  Age of head of household
+HV216                  Number of rooms used for sleeping
+HV014                  Number of children 5 and under (de jure)
+HV204                  Time to get to water source (minutes)
+
+ORDINALES :
+
+(*) HV252              Frequency household members smoke inside the household
+(*) HV270A             Wealth index for urban/rural
+
+
+*************************************************************************
+	TOTAL = 35 variables

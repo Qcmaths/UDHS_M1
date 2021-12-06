@@ -1,0 +1,19 @@
+VARIABLES CATÉGORIELLES
+
+HV024                  Region
+HV025                  Type of place of residence
+HV201                  Source of drinking water
+HV205                  Type of toilet facility 
+HV206                  Has electricity
+HV213                  Main floor material
+HV214                  Main wall material
+HV226                  Type of cooking fuel
+(*) HV230B             Presence of water at hand washing place
+(*) HV252              Frequency household members smoke inside the household
+(*) HV270A             Wealth index for urban/rural
+
+
+VARIABLES QUANTITATIVES
+
+HV220                  Age of head of household
+HV009                  Number of household members
