@@ -1,0 +1,58 @@
+alpha = 0.05
+			R2 		p.value
+zone 			4.753E-01 	0.000E+00
+drinking water 		4.204E-01 	0.000E+00
+toilet facility 	5.517E-01 	0.000E+00
+electricity 		5.266E-01 	0.000E+00
+floor 			6.778E-01 	0.000E+00
+wall 			6.272E-01 	0.000E+00
+cooking fuel 		5.319E-01 	0.000E+00
+water for hand washing 	7.452E-02 	0.000E+00
+wealth 			3.673E-01 	0.000E+00
+smoke inside 		2.201E-02 	5.122E-93
+
+Modalités
+						Estimate 	p.value
+wealth=Richest 					7.190E-01 	0.000E+00
+water for hand washing=Water is available 	2.744E-01 	0.000E+00
+cooking fuel=cooking fuel_Charcoal 		4.666E-01 	0.000E+00
+wall=wall_Cement 				1.012E+00 	0.000E+00
+floor=floor_Other 				6.511E-01 	0.000E+00
+floor=floor_Cement screed 			6.551E-01 	0.000E+00
+electricity=Yes 				6.083E-01 	0.000E+00
+toilet facility=toilet facility_Other 		8.874E-01 	0.000E+00
+toilet facility=(VIP) 				5.789E-01 	0.000E+00
+toilet facility=Pit latrine with slab 		1.846E-01 	0.000E+00
+drinking water=drinking water_Other 		6.875E-01 	0.000E+00
+drinking water=Piped to neighbor 		9.786E-01 	0.000E+00
+zone=Urban 					6.061E-01 	0.000E+00
+wall=wall_Burnt bricks with cement 		4.739E-01 	3.082E-307
+cooking fuel=cooking fuel_Other 		2.808E-01 	1.960E-201
+wealth=Richer 					2.338E-01 	4.155E-137
+drinking water=Public tap/standpipe 		2.413E-01 	2.160E-103
+smoke inside=Never 				2.183E-01 	6.602E-93
+wall=wall_Other 				1.765E-01 	1.297E-13
+smoke inside=Weekly 				1.476E-03 	9.469E-11
+smoke inside=Monthly 				-2.093E-02 	4.455E-03
+drinking water=drinking water_Protected well 	-2.167E-01 	5.115E-04
+smoke inside=Less than once a month 		-6.950E-02 	4.675E-07
+drinking water=Protected spring 		-2.559E-01 	2.431E-11
+water for hand washing=Water not available 	-1.473E-01 	8.230E-51
+wall=wall_Burnt bricks with mud 		-3.076E-01 	8.170E-73
+smoke inside=Daily 				-1.294E-01 	1.094E-73
+drinking water=Unprotected well 		-4.934E-01 	1.862E-85
+drinking water=River/.../irrigation channel 	-4.944E-01 	5.521E-107
+wall=wall_Dirt 					-4.208E-01 	1.395E-150
+water for hand washing=NA 			-1.272E-01 	1.134E-169
+wealth=Poorer 					-3.439E-01 	6.256E-196
+toilet facility=No facility/bush/field 		-9.177E-01 	1.730E-244
+wealth=Poorest 					-5.667E-01 	0.000E+00
+cooking fuel=cooking fuel_Wood 			-7.474E-01 	0.000E+00
+wall=wall_Unburnt bricks with mud 		-5.103E-01 	0.000E+00
+wall=wall_Poles with mud 			-4.235E-01 	0.000E+00
+floor=floor_Earth/Sand		 		-5.812E-01 	0.000E+00
+floor=floor_Dung 				-7.250E-01 	0.000E+00
+electricity=No 					-6.083E-01 	0.000E+00
+toilet facility=...without slab/open pit 	-7.331E-01 	0.000E+00
+drinking water=Tube well or borehole 		-4.470E-01 	0.000E+00
+zone=Rural 					-6.061E-01 	0.000E+00 

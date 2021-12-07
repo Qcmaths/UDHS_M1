@@ -1,0 +1,48 @@
+Eigenvalues
+                       Dim.1   Dim.2   Dim.3   Dim.4   Dim.5   Dim.6   Dim.7   Dim.8   Dim.9  Dim.10  Dim.11  Dim.12  Dim.13  Dim.14  Dim.15
+Variance               0.544   0.214   0.194   0.171   0.158   0.153   0.148   0.146   0.145   0.142   0.139   0.136   0.135   0.129   0.126
+% of var.             15.878   6.243   5.660   4.978   4.620   4.453   4.308   4.270   4.221   4.142   4.042   3.966   3.925   3.776   3.687
+Cumulative % of var.  15.878  22.122  27.781  32.759  37.379  41.832  46.140  50.410  54.631  58.774  62.816  66.782  70.707  74.483  78.170
+                      Dim.16  Dim.17  Dim.18  Dim.19  Dim.20  Dim.21  Dim.22  Dim.23  Dim.24
+Variance               0.115   0.108   0.098   0.096   0.081   0.075   0.071   0.068   0.036
+% of var.              3.366   3.142   2.857   2.803   2.372   2.174   2.069   1.985   1.062
+Cumulative % of var.  81.537  84.679  87.536  90.338  92.710  94.884  96.953  98.938 100.000
+
+Individuals (the 10 first)
+                                                                       Dim.1    ctr   cos2    Dim.2    ctr   cos2    Dim.3    ctr   cos2  
+1                                                                   |  1.734  0.028  0.467 |  0.213  0.001  0.007 |  0.932  0.023  0.135 |
+2                                                                   |  1.549  0.023  0.648 | -0.114  0.000  0.004 |  0.015  0.000  0.000 |
+3                                                                   |  1.306  0.016  0.341 | -0.362  0.003  0.026 | -0.541  0.008  0.059 |
+4                                                                   |  1.432  0.019  0.463 | -0.061  0.000  0.001 | -0.501  0.007  0.057 |
+5                                                                   |  1.244  0.015  0.301 | -0.264  0.002  0.014 | -0.692  0.013  0.093 |
+6                                                                   |  1.301  0.016  0.330 | -0.053  0.000  0.001 | -0.397  0.004  0.031 |
+7                                                                   |  1.308  0.016  0.506 |  0.047  0.000  0.001 |  0.141  0.001  0.006 |
+8                                                                   |  1.626  0.025  0.494 | -0.320  0.002  0.019 | -0.514  0.007  0.049 |
+9                                                                   |  1.626  0.025  0.494 | -0.320  0.002  0.019 | -0.514  0.007  0.049 |
+10                                                                  |  1.733  0.028  0.380 |  0.494  0.006  0.031 |  1.559  0.064  0.308 |
+
+Categories (the 10 first)
+                                                                        Dim.1     ctr    cos2  v.test     Dim.2     ctr    cos2  v.test  
+Rural                                                               |  -0.375   2.845   0.475 -96.485 |   0.022   0.026   0.002   5.756 |
+Urban                                                               |   1.268   9.626   0.475  96.485 |  -0.076   0.087   0.002  -5.756 |
+drinking water_Piped to neighbor                                    |   1.524   3.181   0.128  50.054 |  -0.353   0.435   0.007 -11.610 |
+drinking water_Protected spring                                     |  -0.149   0.054   0.002  -6.674 |   0.054   0.018   0.000   2.423 |
+drinking water_Protected well                                       |  -0.096   0.015   0.001  -3.474 |   0.072   0.021   0.000   2.585 |
+drinking water_Public tap/standpipe                                 |   0.524   0.569   0.024  21.464 |   0.486   1.241   0.020  19.882 |
+drinking water_River/dam/lake/ponds/stream/canal/irrigation channel |  -0.473   0.576   0.024 -21.837 |   1.423  13.270   0.220  65.717 |
+drinking water_Tube well or borehole                                |  -0.409   1.771   0.113 -47.119 |  -0.640  11.060   0.278 -73.824 |
+drinking water_Unprotected well                                     |  -0.471   0.468   0.019 -19.496 |   0.609   1.986   0.032  25.177 |
+drinking water_Other                                                |   1.129   4.398   0.193  61.478 |   0.311   0.851   0.015  16.959 |
+                                                                      Dim.3     ctr    cos2  v.test  
+Rural                                                                -0.013   0.010   0.001  -3.330 |
+Urban                                                                 0.044   0.032   0.001   3.330 |
+drinking water_Piped to neighbor                                     -0.611   1.433   0.021 -20.060 |
+drinking water_Protected spring                                      -0.436   1.295   0.019 -19.486 |
+drinking water_Protected well                                        -0.357   0.584   0.008 -12.867 |
+drinking water_Public tap/standpipe                                  -0.570   1.886   0.028 -23.341 |
+drinking water_River/dam/lake/ponds/stream/canal/irrigation channel   0.260   0.488   0.007  11.994 |
+drinking water_Tube well or borehole                                  0.043   0.056   0.001   4.995 |
+drinking water_Unprotected well                                      -0.471   1.314   0.019 -19.498 |
+drinking water_Other                                                  1.021  10.083   0.158  55.576 |
+
+Categorical variables (eta2)
